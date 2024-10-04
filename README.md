@@ -27,7 +27,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, sempre focado em aprimorar 
 
 ### Você pode aproveitar para ver alguns Projeto que eu realizei:
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Victorx16&repo=trilha-net-fundamentos-desafio&bg_color=DCD7C9&border_color=2C3639C&show_icons=true&icon_color=2C3639&title_color=A27B5C&text_color=A27B5C)]([https://github.com/Victorx16/dio-lab-open-source](https://github.com/Victorx16/trilha-net-fundamentos-desafio))
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Victorx16&repo=trilha-net-fundamentos-desafio&bg_color=DCD7C9&border_color=2C3639C&show_icons=true&icon_color=2C3639&title_color=A27B5C&text_color=A27B5C)](https://github.com/Victorx16/trilha-net-fundamentos-desafio)
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Victorx16&repo=Projeto_DevLink&bg_color=DCD7C9&border_color=2C3639C&show_icons=true&icon_color=2C3639&title_color=A27B5C&text_color=A27B5C)](https://github.com/Victorx16/Projeto_DevLink)
 
